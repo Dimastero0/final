@@ -1,0 +1,15 @@
+C:\Users\Dima\Desktop\C# Final\bin\Debug\net6.0\C# Final.exe
+C:\Users\Dima\Desktop\C# Final\bin\Debug\net6.0\C# Final.deps.json
+C:\Users\Dima\Desktop\C# Final\bin\Debug\net6.0\C# Final.runtimeconfig.json
+C:\Users\Dima\Desktop\C# Final\bin\Debug\net6.0\C# Final.dll
+C:\Users\Dima\Desktop\C# Final\bin\Debug\net6.0\C# Final.pdb
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.csproj.AssemblyReference.cache
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.AssemblyInfoInputs.cache
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.AssemblyInfo.cs
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.csproj.CoreCompileInputs.cache
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.dll
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\refint\C# Final.dll
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.pdb
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\C# Final.genruntimeconfig.cache
+C:\Users\Dima\Desktop\C# Final\obj\Debug\net6.0\ref\C# Final.dll
